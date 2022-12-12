@@ -19,4 +19,13 @@
     font-size: 80px;
     margin-bottom: 2.5%;
 }
-
+.card-body{
+    background-color: #dd4747;
+}
+.cartao{
+    margin-left: 15px;
+    margin-top: 15px;
+    width: 18rem;
+    border-color: #ef4646;
+    display: inline-block;
+}
