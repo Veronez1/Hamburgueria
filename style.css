@@ -1,0 +1,22 @@
+.configuracao-body{
+    background-color: #fb7272;
+    color: #333333;
+}
+.fundo-header{
+    background-color: #dd4747;
+}
+.alinhar-texto-principal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.margin-top{
+    margin-top: 5% !important;
+}
+.space{
+    letter-spacing: 10px;
+    font-size: 80px;
+    margin-bottom: 2.5%;
+}
+
